@@ -95,7 +95,7 @@ INSERT INTO `contact_inquiries` (`id`, `first_name`, `last_name`, `email`, `phon
 -- --------------------------------------------------------
 
 --
--- Table structure for table `coupons`
+-- Table structure for table 
 --
 
 CREATE TABLE `coupons` (
